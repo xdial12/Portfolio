@@ -1,0 +1,103 @@
+/******
+common
+*******/
+body{
+    font-family: "monospace",sans-serif;
+}
+.font-primary{
+    color: #00abae;
+}
+.tile-icon{
+    font-size:20px;
+    font-weight: bold;
+}
+p{
+    font-size:14px;
+}
+h2{
+    font-weight:bold;
+    font-size:22px;
+    margin-bottom:20px;
+    text-align: center;
+}
+a.font-black{
+    color:#000 !important;
+
+}
+ body{
+     height:20vh;
+     justify-content:top;
+     align-items:center;
+ }
+/******
+ABOUT
+******/
+#about{
+    margin:60px auto;
+    max-width:400px;
+    text-align:center;
+}
+#about img{
+    border-radius:50%;
+    width:120px;
+    height:120px;
+}
+#about.name{
+    font-size:20px;
+
+}
+
+#about .vocation{
+    font-size:15px;
+    color: #A8A8AB;
+    margin-bottom:10px;
+}
+
+#about .skills{
+    font-size:14px;
+    color:#00ABAE;
+    margin-bottom:10px;
+}
+#about .email{
+    margin-top:15px;
+    font-size:14px;
+
+}
+#about .icon{
+    margin-top:20px;
+    font-size: 30px;
+}
+ #about .icon a{
+     color: #000;
+ }
+
+
+ /*******
+ project
+ *******/
+
+ #projects{
+     margin:60px auto;
+     width:80%;
+    
+ }
+
+ #projects h2{
+    text-align: center;
+ }
+
+ #projects .card img{
+     width:100%;
+ }
+ #projects .card-title{
+     font-weight: bold;
+ }
+
+
+
+
+
+
+
+
+
